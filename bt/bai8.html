@@ -5,8 +5,22 @@
     <title>bai8</title>
 </head>
 <body>
+<input type="number"id="num"./>
+<p id="result"></p>
 <script>
-
+    let a = Math.floor(Math.random() * 10000);
+    document.write(a);
+    let num=0;
+    do {
+        num = +prompt('nhap so tu ban phim');
+        if (num > a) {
+            alert('nhập số nhỏ hơn');
+        } else if (num == a) {
+            alert("chuc mung ban");
+        } else if (num < a) {
+            alert('nhap so lon hon');
+        }
+    } while (num!=a);
 </script>
 </body>
 </html>
