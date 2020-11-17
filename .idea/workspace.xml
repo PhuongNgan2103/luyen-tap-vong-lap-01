@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc831203-cb76-47db-b3ea-f922562eeea2" name="Default Changelist" comment="" />
+    <list default="true" id="cc831203-cb76-47db-b3ea-f922562eeea2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +16,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kNNUv7ABhCpAlFJbnYqDy33lc1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,6 +28,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -44,7 +50,9 @@
       <workItem from="1605573737915" duration="7410000" />
       <workItem from="1605586811105" duration="595000" />
       <workItem from="1605592142128" duration="9856000" />
-      <workItem from="1605602791763" duration="2185000" />
+      <workItem from="1605602791763" duration="2400000" />
+      <workItem from="1605606501586" duration="28000" />
+      <workItem from="1605606540537" duration="8000" />
     </task>
     <servers />
   </component>
