@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bai6</title>
+</head>
+<body>
+<script>
+    let count = 0;
+    let sum = 0;
+    let surSum = 1;
+
+    while (count < 30) {
+        if ((surSum % 7) == 0) {
+            sum += surSum;
+            count++;
+        }
+        surSum++;
+    }
+    alert("Tổng của 30 số đầu tiên chia hết cho 7 :" + sum);
+
+</script>
+</body>
+</html>

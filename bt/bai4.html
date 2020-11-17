@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bai4</title>
+</head>
+<body>
+<script>
+    let temp,nextF = 0;
+    let curF =1;
+
+    for (let i=0; i< 20; i++){
+        if (curF%5 == 0) document.write(curF);
+        alert(curF + "Đây là số đầu tiên trong dãy fibonacci chia hết cho 5!");
+        break;
+        temp = curF;
+        curF += nextF;
+        nextF = temp;
+
+    }
+</script>
+</body>
+</html>
